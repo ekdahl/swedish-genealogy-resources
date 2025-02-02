@@ -14,3 +14,8 @@ Stor samling med historiska kartor.
 
 ### [SCB: Regina](https://geodata.scb.se/reginawebmap/main/webapp/)
 Gränser för landskap, län, kommuner, församlingar, tätorter, småorter med mera.
+
+## Ordlistor
+
+### [Riksarkivet: Folkräkningar](https://riksarkivet.se/Media/pdf-filer/NAD/forkortningar_familjestallning_folkrakningar.pdf)
+Förklaringar till de mest använda förkortningarna över familjeställning i Folkräkningarna.
